@@ -23,8 +23,6 @@
    - 关系：一个用户对应多条借阅记录（1对多），一本图书对应多条借阅记录（1对多）。
 
 ## 四、Git提交历史截图
-（此处粘贴你的Git提交记录截图）
-![Git提交历史](截图文件名.png)
+<img width="1765" height="650" alt="提交截图" src="https://github.com/user-attachments/assets/10733b3b-2f61-4e33-b643-bffa7e777363" />
 
-## 五、Git仓库链接
-[点击此处访问公开仓库](https://github.com/你的用户名/仓库名)
+
